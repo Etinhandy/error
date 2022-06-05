@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.booton-area {
+    display: flex;
+}
+
+.booton-area h1 {
+    margin-right: 0.5em;
+}
+
+#event-section-2 {
+    background: #0B131F;
+}
+
+.rule {
+    width: 100%;
+    height: 0.1em;
+    margin: 4em 0 1em 0;
+}
+
+.date img {
+    width: 1.2em;
+    height: 1.2em;
+}
+
+.location img {
+    width: 1.2em;
+    height: 1.3em;
+}
+
+
+.eve {
+    display: flex;
+}
+
+.end {
+
+    margin-left: 11em;
+}
+
+.side-rule {
+    display: flex;
+    align-items: center;
+    background: #ffff;
+    width: 0.2em;
+    height: 32em;
+    opacity: 0.5;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
+}
